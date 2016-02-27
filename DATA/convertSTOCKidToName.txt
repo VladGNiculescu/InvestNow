@@ -1,0 +1,1 @@
+http://d.yimg.com/autoc.finance.yahoo.com/autoc?query=Goog&region=1&lang=en&callback=YAHOO.Finance.SymbolSuggest.ssCallback
